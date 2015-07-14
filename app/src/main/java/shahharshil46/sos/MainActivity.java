@@ -33,6 +33,7 @@ import javax.mail.Session;
  * 1st commit --Harshil
  */
 public class MainActivity extends Activity {
+
     private EditText emailEdit;
     private EditText subjectEdit;
     private EditText messageEdit;
