@@ -29,6 +29,9 @@ import javax.mail.Session;
  app:(shah|com.).*$
  */
 
+/**
+ * 1st commit --Harshil
+ */
 public class MainActivity extends Activity {
     private EditText emailEdit;
     private EditText subjectEdit;
